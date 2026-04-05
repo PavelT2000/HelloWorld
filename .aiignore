@@ -1,0 +1,20 @@
+# Build artifacts
+**/bin/
+**/obj/
+
+# Dependencies
+**/packages/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE specific files
+.vs/
+.vscode/
+*.userprefs
